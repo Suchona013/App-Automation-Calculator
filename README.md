@@ -27,9 +27,16 @@ Basic Operations of Calculator
 
 ## How to run the project
 - Clone the project
-- Open the project
-- Run appium server through the following command from the terminal of the editor 
+- Open the project in your preferred IDE (IntelliJ IDEA, Eclipse).
+- Ensure the DesiredCapabilities in the Setup class match your device/emulator configurations. Update them if necessary:
 
+      capabilities.setCapability("appium:udid", "<Your_Device_UDID>");
+      capabilities.setCapability("appium:platformVersion", "<Your_Device_Android_Version>");
+  
+- Start the Appium server from the command line from the terminal of the editor:
+  
       appium --use-plugins=execute-driver --base-path /wd/hub
+
+- Run the "CalculatorTest" file 
 
 ## Output Screenshot
