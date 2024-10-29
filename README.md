@@ -12,7 +12,7 @@
 Install the followings
 - JDK (https://www.geeksforgeeks.org/download-and-install-java-development-kit-jdk-on-windows-mac-and-linux/)
 - IDE (IntelliJ IDEA/ Eclipse)
-- Node.js
+- Node.js (https://www.geeksforgeeks.org/installation-of-node-js-on-windows/)
 - Android Studio (Android SDK)
 - Vysor (If want to run script in real device and screen mirroring)
 - Appium
