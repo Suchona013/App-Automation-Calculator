@@ -10,7 +10,7 @@
 
 ## Prerequisites
 Install the followings
-- JDK
+- JDK (https://www.geeksforgeeks.org/download-and-install-java-development-kit-jdk-on-windows-mac-and-linux/)
 - IDE (IntelliJ IDEA/ Eclipse)
 - Node.js
 - Android Studio (Android SDK)
