@@ -37,7 +37,13 @@ Basic Operations of Calculator
   
       appium --use-plugins=execute-driver --base-path /wd/hub
 
-- Run the "CalculatorTest" file 
+- Run the "CalculatorTest" file
+- After the tests complete, find the report in the following folder
+  
+      /reports/extent-report.html
+
+- Open the HTML file in a browser to view the results.
+  
 
 ## Output Screenshot
 Reports
