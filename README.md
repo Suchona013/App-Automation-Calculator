@@ -4,7 +4,7 @@
 - Language: Java
 - Test Framework: TestNG
 - Build Tool: Gradle
-- Automation Tool: Appium
+- App Automation Tool: Appium
 - Reporting: Extent Reports
 - IDE (IntelliJ IDEA)
 
